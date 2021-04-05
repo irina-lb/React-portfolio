@@ -2,7 +2,7 @@
 
 ## Portfolio for graphic designer Carmen Bretones 
   If you want to see more work of designer check her instgram:
-  [@thekarsy] (https://instagram.com/thekarsy?igshid=e7ub9j1ukhd5)
+  __[@thekarsy](https://instagram.com/thekarsy?igshid=e7ub9j1ukhd5)__
   
 ---
 * __Used technologies:__
