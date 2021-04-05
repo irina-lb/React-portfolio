@@ -11,5 +11,6 @@
   * Framer-motion
   
 __Preview GIF:__
+
 ![react](https://user-images.githubusercontent.com/73307960/113580236-b59f3b80-9625-11eb-8e91-a15a2bebef2b.gif)
   
